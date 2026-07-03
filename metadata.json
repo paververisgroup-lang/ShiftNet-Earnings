@@ -1,0 +1,6 @@
+{
+  "name": "ShiftNet Earnings: Contractor Profit & Mileage Calculator",
+  "description": "A clean, minimalist profit and mileage calculator for gig workers and contractors to determine true net hourly earnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
